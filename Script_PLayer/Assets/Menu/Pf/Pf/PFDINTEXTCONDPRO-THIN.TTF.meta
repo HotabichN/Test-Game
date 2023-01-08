@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 53b7a613816903249ae8a56c8a18a87f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PF Din Text Cond Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e044da31a50893240bd87d7b188fc502, type: 3}
+  - {fileID: 12800000, guid: 42c3a8072a2344845a6a33a1ed56d7cb, type: 3}
+  - {fileID: 12800000, guid: 61e246913626bb0418eb271016d89a0f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
